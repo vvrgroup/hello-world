@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# WELCOME TO THE VISUALIZATION & VIRTUAL REALITY  GROUP AT UNIVERSITY OF PATRAS
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+The Visualization and Virtual Reality Group (VVR) was established in 2012 and is one of the eight separate research groups of the Wire Communications Laboratory (WCL), Department of Electrical & Computer Engineering, University of Patras. The activities of the Group include Teaching, Research and Development in the areas of Computer Graphics, Virtual Reality, Visualization, Biomedical Engineering, Virtual Physiological Human, Computational Geometry, Human-Computer Interaction, and Computer Vision.
 
 ## Repositories
 
